@@ -1,12 +1,18 @@
-👋 Hi, I’m Muhammad Tawfiq Labib Ladan
-Backend-focused Software Engineer working with Go and TypeScript
-Interested in distributed systems, event-driven architecture, and scalable backends
-Experienced with fintech, AI services, cloud storage, and messaging systems
-Built Kafka-like event streaming, RAG-based AI backends, and cloud file platforms
-Strong focus on performance, reliability, and clean system design
-Currently studying Information Technology at GCTU (Accra, Ghana)
-Learning distributed systems, database internals, and reliability engineering
-💼 Open to backend roles & collaborations | 🌍 Accra, Ghana
+## 👋 Hi, I’m Muhammad Tawfiq Labib Ladan
+
+**Backend-focused Software Engineer** working with **Go** and **TypeScript**  
+Interested in **distributed systems**, **event-driven architecture**, and **scalable backends**
+
+- Experienced with **fintech**, **AI services**, **cloud storage**, and **messaging systems**
+- Built **Kafka-like event streaming**, **RAG-based AI backends**, and **cloud file platforms**
+- Strong focus on **performance**, **reliability**, and **clean system design**
+
+🎓 Currently studying **Information Technology at GCTU (Accra, Ghana)**  
+📚 Learning **distributed systems**, **database internals**, and **reliability engineering**
+
+💼 Open to backend roles & collaborations  
+🌍 Accra, Ghana
+
 
 
 # 💻 Tech Stack:
